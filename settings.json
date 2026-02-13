@@ -15,7 +15,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "paplay ~/.claude/sounds/glados/session_start.mp3"
+            "command": "afplay ~/.claude/sounds/glados/session_start.mp3"
           }
         ]
       }
@@ -25,7 +25,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "paplay ~/.claude/sounds/glados/user_prompt_submit.mp3"
+            "command": "afplay ~/.claude/sounds/glados/user_prompt_submit.mp3"
           }
         ]
       }
@@ -35,7 +35,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "paplay ~/.claude/sounds/glados/notification.mp3"
+            "command": "afplay ~/.claude/sounds/glados/notification.mp3"
           }
         ]
       }
@@ -45,7 +45,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "paplay ~/.claude/sounds/glados/permission_request.mp3"
+            "command": "afplay ~/.claude/sounds/glados/permission_request.mp3"
           }
         ]
       }],
@@ -54,7 +54,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "paplay ~/.claude/sounds/glados/stop.mp3"
+            "command": "afplay ~/.claude/sounds/glados/stop.mp3"
           }
         ]
       }

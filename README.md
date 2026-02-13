@@ -4,8 +4,4 @@ Claude Code configuration files.
 
 ## Dependencies
 
-Install `paplay` (PulseAudio sound player):
-
-```bash
-sudo apt install pulseaudio-utils
-```
+`afplay` is included by default on macOS — no installation needed.
