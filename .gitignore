@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Whitelist
+!.gitignore
+!README.md
+!CLAUDE.md
+!statusline.sh
+!sounds/
+!sounds/**
