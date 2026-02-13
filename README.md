@@ -2,6 +2,12 @@
 
 Claude Code configuration files.
 
+## Installation
+
+```bash
+git clone -b macos https://github.com/TMH13/cc-config.git ~/.claude
+```
+
 ## What's included
 
 ### GLaDOS sound hooks
