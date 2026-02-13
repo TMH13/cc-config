@@ -39,8 +39,25 @@ Global instructions for Claude Code (e.g. commit message preferences).
 
 ## Dependencies
 
-Install `paplay` (PulseAudio sound player):
+- `paplay` — PulseAudio sound player (for sound hooks)
+- `python3` — required by the status line script
 
+**Debian/Ubuntu:**
 ```bash
-sudo apt install pulseaudio-utils
+sudo apt install pulseaudio-utils python3
+```
+
+**Fedora:**
+```bash
+sudo dnf install pulseaudio-utils python3
+```
+
+**Arch Linux:**
+```bash
+sudo pacman -S pulseaudio python
+```
+
+**openSUSE:**
+```bash
+sudo zypper install pulseaudio-utils python3
 ```
