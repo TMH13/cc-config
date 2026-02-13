@@ -39,4 +39,11 @@ Global instructions for Claude Code (e.g. commit message preferences).
 
 ## Dependencies
 
-`afplay` is included by default on macOS — no installation needed.
+- `afplay` — included by default on macOS
+- `python3` — required by the status line script
+
+Python 3 comes pre-installed on macOS. If needed, you can also install it via Homebrew:
+
+```bash
+brew install python3
+```
